@@ -1,0 +1,6 @@
+C:\Users\Sikha.P\source\repos\SendEmailSMTP\bin\Release\SendEmailSMTP.dll
+C:\Users\Sikha.P\source\repos\SendEmailSMTP\bin\Release\SendEmailSMTP.pdb
+C:\Users\Sikha.P\source\repos\SendEmailSMTP\obj\Release\SendEmailSMTP.csprojAssemblyReference.cache
+C:\Users\Sikha.P\source\repos\SendEmailSMTP\obj\Release\SendEmailSMTP.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\source\repos\SendEmailSMTP\obj\Release\SendEmailSMTP.dll
+C:\Users\Sikha.P\source\repos\SendEmailSMTP\obj\Release\SendEmailSMTP.pdb
